@@ -1,0 +1,325 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Garfish",
+          "description": "A powerful micro front-end framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:05:20Z",
+            "owner": "web-infra-dev",
+            "repo": "garfish",
+            "stars": 2908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icestark, a micro frontends solution for large application",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T08:01:33Z",
+            "owner": "ice-lab",
+            "repo": "icestark",
+            "stars": 2076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenComponents, a framework for developing and distributing html components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T07:39:30Z",
+            "owner": "opencomponents",
+            "repo": "oc",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isomorphic Layout Composer",
+          "description": "Complete solution for Micro Frontends composition into SPA with SSR support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:33:23Z",
+            "owner": "namecheap",
+            "repo": "ilc",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PuzzleJs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-28T06:41:29Z",
+            "owner": "puzzle-js",
+            "repo": "puzzle-js",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berial - Simple micro-front end framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T01:09:22Z",
+            "owner": "berialjs",
+            "repo": "berial",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltranJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-14T12:46:21Z",
+            "owner": "hepsiburada",
+            "repo": "VoltranJS",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One-app by American Express",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-05-03T20:35:10Z",
+            "owner": "americanexpress",
+            "repo": "one-app",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NUT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T00:33:29Z",
+            "owner": "nut-project",
+            "repo": "nut",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuz is an open-source project, the runtime package manager for web platform.",
+          "description": "Archived.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-05-23T05:09:25Z",
+            "owner": "nuz-app",
+            "repo": "nuz",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T21:17:23Z",
+            "owner": "scalecube",
+            "repo": "scalecube-js",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Extending the microservice paradigms to web development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T01:29:52Z",
+            "owner": "neuland",
+            "repo": "micro-frontends",
+            "stars": 4679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micromono",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T03:27:09Z",
+            "owner": "lsm",
+            "repo": "micromono",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A tiny, fast, zero-dependency event emitter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-06T14:56:38Z",
+            "owner": "chrisdavies",
+            "repo": "eev",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T22:32:43Z",
+            "owner": "willmendesneto",
+            "repo": "micro-frontend-pages",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Service Oriented Front-end",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-02T02:08:57Z",
+            "owner": "CanopyTax",
+            "repo": "sofe",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micro-Frontends architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-05-23T05:09:25Z",
+            "owner": "nuz-app",
+            "repo": "nuz",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular_MicroApps_Different_Technologies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-31T09:50:22Z",
+            "owner": "manfredsteyer",
+            "repo": "Angular_MicroApps_Different_Technologies",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exercises for course \"Integrating microservices on the frontend\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-05T15:33:03Z",
+            "owner": "0xR",
+            "repo": "micro-frontend",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microservices in the frontend with BFFs providing their own bundles and API.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-23T10:08:43Z",
+            "owner": "dactylographsy",
+            "repo": "browser-dactylographsy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxy middleware for express that enables composition of microservices.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Follow on Twitter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Who Uses"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:25:00.043Z",
+    "original_repository": "rajasegar/awesome-micro-frontends",
+    "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
+    "enhanced_repository": "enhansome/enhansome-micro-frontends",
+    "enhanced_repository_description": null,
+    "title": "Awesome Micro-Frontends with stars"
+  }
+}
