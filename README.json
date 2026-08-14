@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T10:05:20Z",
             "owner": "web-infra-dev",
             "repo": "garfish",
-            "stars": 2908
+            "stars": 2907
           }
         },
         {
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:33:23Z",
+            "last_commit": "2026-08-14T12:38:34Z",
             "owner": "namecheap",
             "repo": "ilc",
             "stars": 774
@@ -315,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:25:00.043Z",
+    "last_updated": "2026-08-14T16:23:55.772Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
     "enhanced_repository": "enhansome/enhansome-micro-frontends",
