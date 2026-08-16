@@ -35,7 +35,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Projects
 
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
-* [Bit](https://github.com/teambit/bit) ⭐ 18,455 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-15 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,455 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-16 - A tool for developing and composing / integrating independently versioned components.
 
 ### Frameworks
 
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
