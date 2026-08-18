@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T07:39:30Z",
+            "last_commit": "2026-08-18T15:12:35Z",
             "owner": "opencomponents",
             "repo": "oc",
             "stars": 1473
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:38:34Z",
+            "last_commit": "2026-08-18T15:03:43Z",
             "owner": "namecheap",
             "repo": "ilc",
             "stars": 774
@@ -315,7 +315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:46:46.767Z",
+    "last_updated": "2026-08-18T15:57:29.543Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
     "enhanced_repository": "enhansome/enhansome-micro-frontends",
