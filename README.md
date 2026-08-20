@@ -35,13 +35,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Projects
 
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
-* [Bit](https://github.com/teambit/bit) ⭐ 18,457 | 🐛 97 | 🌐 TypeScript | 📅 2026-08-19 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,455 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-20 - A tool for developing and composing / integrating independently versioned components.
 
 ### Frameworks
 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,907 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-15 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,076 | 🐛 149 | 🌐 TypeScript | 📅 2026-02-11
-* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-19
+* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-20
 * [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 774 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 662 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,142 | 🐛 51 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,143 | 🐛 51 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

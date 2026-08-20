@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 29561741,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:50:31Z",
+                "last_commit": "2026-08-20T08:26:25Z",
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1473
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:58:10.691Z",
+    "last_updated": "2026-08-20T15:59:36.733Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
