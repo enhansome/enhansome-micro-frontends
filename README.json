@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 323257322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T00:13:47Z",
+                "last_commit": "2026-08-21T15:52:08Z",
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2907
+                "stars": 2908
               }
             },
             {
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:59:36.733Z",
+    "last_updated": "2026-08-21T15:59:13.660Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
