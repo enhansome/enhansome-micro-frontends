@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 29561741,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T14:31:05Z",
+                "last_commit": "2026-08-23T14:32:29Z",
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1473
@@ -189,7 +189,7 @@
                 "last_commit": "2026-02-20T01:29:52Z",
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4678
+                "stars": 4679
               }
             },
             {
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:46:58.036Z",
+    "last_updated": "2026-08-23T15:47:52.191Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",

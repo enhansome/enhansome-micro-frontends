@@ -35,13 +35,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Projects
 
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
-* [Bit](https://github.com/teambit/bit) ⭐ 18,458 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-22 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,458 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-22 - A tool for developing and composing / integrating independently versioned components.
 
 ### Frameworks
 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,908 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-21 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,076 | 🐛 149 | 🌐 TypeScript | 📅 2026-02-11
-* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 35 | 🌐 JavaScript | 📅 2026-08-22
+* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-23
 * [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 774 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-22 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 662 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
@@ -64,7 +64,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Related
 
-* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,678 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
+* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,679 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
 * [Micromono](https://github.com/lsm/micromono) ⭐ 638 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-26
 * [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev) ⭐ 525 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06
 * [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages) ⭐ 182 | 🐛 35 | 🌐 JavaScript | 📅 2023-03-01
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
