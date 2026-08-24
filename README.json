@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:05:19Z",
+                "last_commit": "2026-08-24T15:41:48Z",
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18460
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:09.715Z",
+    "last_updated": "2026-08-24T16:04:41.291Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
