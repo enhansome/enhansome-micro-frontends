@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Bit",
+              "description": "A tool for developing and composing / integrating independently versioned components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79723839,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:05:19Z",
+                "owner": "teambit",
+                "repo": "bit",
+                "stars": 18460
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Garfish",
               "description": "A powerful micro front-end framework.",
               "children": [],
@@ -44,7 +66,7 @@
                 "archived": false,
                 "id": 29561741,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T14:32:29Z",
+                "last_commit": "2026-08-23T17:59:54Z",
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1473
@@ -322,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:47:52.191Z",
+    "last_updated": "2026-08-24T14:13:09.715Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
