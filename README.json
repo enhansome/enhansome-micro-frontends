@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:41:48Z",
+                "last_commit": "2026-08-24T21:11:42Z",
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18460
@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 29561741,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T17:59:54Z",
+                "last_commit": "2026-08-24T17:18:24Z",
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1473
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:04:41.291Z",
+    "last_updated": "2026-08-25T06:09:50.856Z",
     "original_repository": "rajasegar/awesome-micro-frontends",
     "original_repository_id": 159774835,
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
