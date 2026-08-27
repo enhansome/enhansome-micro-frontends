@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:33:14Z",
+                "last_commit": "2026-08-26T23:44:27Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18462
+                "stars": 18463
               }
             }
           ],
@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 323257322,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:29:54Z",
+                "last_commit": "2026-08-26T22:03:37Z",
                 "owner": "web-infra-dev",
                 "repo": "garfish",
                 "stars": 2909
@@ -344,9 +344,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:36:13.277Z",
-    "original_repository": "rajasegar/awesome-micro-frontends",
-    "original_repository_id": 159774835,
+    "last_updated": "2026-08-27T11:51:23.631Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 159774835,
+      "language": null,
+      "last_commit": "2023-12-24T11:22:48Z",
+      "owner": "rajasegar",
+      "repo": "awesome-micro-frontends",
+      "stars": 1282
+    },
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
     "enhanced_repository": "enhansome/enhansome-micro-frontends",
     "enhanced_repository_description": null,
