@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:44:27Z",
+                "last_commit": "2026-08-27T21:14:47Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18463
+                "stars": 18464
               }
             }
           ],
@@ -211,7 +211,7 @@
                 "last_commit": "2026-02-20T01:29:52Z",
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4679
+                "stars": 4680
               }
             },
             {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:23.631Z",
+    "last_updated": "2026-08-28T00:30:35.519Z",
     "original_repository_info": {
       "archived": false,
       "id": 159774835,

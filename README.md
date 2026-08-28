@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,463 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-26 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,464 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-27 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
@@ -64,7 +64,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Related
 
-* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,679 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
+* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,680 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
 * [Micromono](https://github.com/lsm/micromono) ⭐ 638 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-26
 * [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev) ⭐ 525 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06
 * [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages) ⭐ 182 | 🐛 35 | 🌐 JavaScript | 📅 2023-03-01
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,142 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,143 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
