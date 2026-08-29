@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+                "homepage": "https://bit.dev",
                 "id": 79723839,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:30:27Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18466
+                "stars": 18466,
+                "topics": [
+                  "ai",
+                  "collaboration",
+                  "component-driven",
+                  "composable",
+                  "composable-architecture",
+                  "distributed",
+                  "front-end",
+                  "javascript",
+                  "micro-frontend",
+                  "micro-services",
+                  "monorepo",
+                  "multirepo",
+                  "multirepo-maintenance",
+                  "node-js",
+                  "polyrepo",
+                  "react",
+                  "service-oriented-architecture",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             }
@@ -35,12 +60,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful micro front-end framework 🚚",
+                "homepage": "https://www.garfishjs.org",
                 "id": 323257322,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T22:03:37Z",
+                "open_issues": 26,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2909
+                "stars": 2909,
+                "topics": [
+                  "framework",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -51,12 +84,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io",
+                "homepage": "https://micro-frontends.ice.work",
                 "id": 185713295,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-11T08:01:33Z",
+                "open_issues": 149,
                 "owner": "ice-lab",
                 "repo": "icestark",
-                "stars": 2077
+                "stars": 2077,
+                "topics": [
+                  "frontend",
+                  "micro-frontends",
+                  "micro-frontends-solution",
+                  "microfrontends",
+                  "mpa",
+                  "single-spa",
+                  "spa"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -67,12 +113,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenComponents, serverless in the front-end world for painless micro-frontends delivery",
+                "homepage": "https://opencomponents.github.io/",
                 "id": 29561741,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:26:56Z",
+                "open_issues": 31,
                 "owner": "opencomponents",
                 "repo": "oc",
-                "stars": 1473
+                "stars": 1473,
+                "topics": [
+                  "components",
+                  "continuous-delivery",
+                  "microfrontends",
+                  "opencomponents",
+                  "serverless",
+                  "ui-composition"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -83,12 +141,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-ready framework for Micro Frontends composition into SPA with SSR & i18n support",
+                "homepage": "http://ilc.namecheap.technology",
                 "id": 218043270,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T06:22:35Z",
+                "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 774
+                "stars": 774,
+                "topics": [
+                  "fragment-services",
+                  "frontend",
+                  "micro-frontends",
+                  "microframework",
+                  "microfrontends",
+                  "microservices",
+                  "page-composition"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -99,12 +170,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Micro frontend framework for scalable and blazing fast websites.",
+                "homepage": null,
                 "id": 126609777,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-28T06:41:29Z",
+                "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 662
+                "stars": 662,
+                "topics": [
+                  "backend-for-frontend",
+                  "fragments",
+                  "framework",
+                  "front-end-microservice",
+                  "isomorphic",
+                  "javascript",
+                  "micro-frontends",
+                  "microservice-framework",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -115,12 +201,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😈 Simple micro-front-end framework.",
+                "homepage": "https://berial.vercel.app",
                 "id": 282900265,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-22T01:09:22Z",
+                "open_issues": 5,
                 "owner": "berialjs",
                 "repo": "berial",
-                "stars": 520
+                "stars": 520,
+                "topics": [
+                  "micro-frontend",
+                  "microservice"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -131,12 +225,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voltran is a micro frontend framework which is developed by Hepsiburada Technology Team.",
+                "homepage": null,
                 "id": 325304153,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T12:46:21Z",
+                "open_issues": 9,
                 "owner": "hepsiburada",
                 "repo": "VoltranJS",
-                "stars": 414
+                "stars": 414,
+                "topics": [
+                  "babel",
+                  "hepsiburada",
+                  "javascript",
+                  "js",
+                  "micro-frontend-framework",
+                  "micro-frontends",
+                  "microfrontends",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -147,12 +255,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "✨ a fresh, modular take on web application development",
+                "homepage": null,
                 "id": 225661769,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-03T20:35:10Z",
+                "open_issues": 1,
                 "owner": "americanexpress",
                 "repo": "one-app",
-                "stars": 303
+                "stars": 303,
+                "topics": [
+                  "holocron",
+                  "holocron-modules",
+                  "micro-ui",
+                  "microfrontends",
+                  "modular",
+                  "one-app"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -163,12 +283,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌰 A framework born for micro frontends",
+                "homepage": "https://nut.js.org",
                 "id": 176462890,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:16:17Z",
+                "open_issues": 25,
                 "owner": "nut-project",
                 "repo": "nut",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "cli",
+                  "framework",
+                  "microfrontends",
+                  "nut",
+                  "spa"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -179,12 +310,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔮  Nuz is an open-source project, the runtime package manager for web platform.",
+                "homepage": "https://docs.nuz.app",
                 "id": 242378068,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-05-23T05:09:25Z",
+                "open_issues": 15,
                 "owner": "nuz-app",
                 "repo": "nuz",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "architecture",
+                  "cli",
+                  "frontends",
+                  "importer",
+                  "microfrontends",
+                  "nuz",
+                  "package-manager",
+                  "react",
+                  "registry",
+                  "require",
+                  "resolver",
+                  "runtime",
+                  "standalone",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -195,12 +347,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for working in microservices/micro-frontends architecture. ",
+                "homepage": "http://scalecube.github.io/",
                 "id": 111294077,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T21:17:23Z",
+                "open_issues": 7,
                 "owner": "scalecube",
                 "repo": "scalecube-js",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "es6",
+                  "micro-frontends",
+                  "micro-services",
+                  "microfrontends",
+                  "microservices-library",
+                  "reactive-microservices",
+                  "rsocket",
+                  "ui-composition"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             }
@@ -218,12 +384,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "extending the microservice paradigms to web development",
+                "homepage": "https://micro-frontends.org/",
                 "id": 86085748,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-20T01:29:52Z",
+                "open_issues": 24,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4680
+                "stars": 4680,
+                "topics": [
+                  "architecture",
+                  "micro-frontends",
+                  "microservice-paradigms",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -234,12 +410,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write microservices in monolithic style",
+                "homepage": "http://micromono.io",
                 "id": 35129342,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T03:27:09Z",
+                "open_issues": 1,
                 "owner": "lsm",
                 "repo": "micromono",
-                "stars": 638
+                "stars": 638,
+                "topics": [
+                  "channel",
+                  "framework",
+                  "microservice",
+                  "node",
+                  "rpc"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -250,12 +437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny, fast, zero-dependency event emitter",
+                "homepage": null,
                 "id": 34592152,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-05-06T14:56:38Z",
+                "open_issues": 5,
                 "owner": "chrisdavies",
                 "repo": "eev",
-                "stars": 525
+                "stars": 525,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -266,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulate a micro frontend project using NodeJS, React and NGinx Reverse Proxy in Alpine Docker images",
+                "homepage": null,
                 "id": 99459550,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-01T22:32:43Z",
+                "open_issues": 35,
                 "owner": "willmendesneto",
                 "repo": "micro-frontend-pages",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -282,12 +479,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service Oriented Front-end",
+                "homepage": null,
                 "id": 47775257,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-02T02:08:57Z",
+                "open_issues": 5,
                 "owner": "CanopyTax",
                 "repo": "sofe",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "front-end"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -298,12 +502,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🔮  Nuz is an open-source project, the runtime package manager for web platform.",
+                "homepage": "https://docs.nuz.app",
                 "id": 242378068,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-05-23T05:09:25Z",
+                "open_issues": 15,
                 "owner": "nuz-app",
                 "repo": "nuz",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "architecture",
+                  "cli",
+                  "frontends",
+                  "importer",
+                  "microfrontends",
+                  "nuz",
+                  "package-manager",
+                  "react",
+                  "registry",
+                  "require",
+                  "resolver",
+                  "runtime",
+                  "standalone",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -314,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 142461993,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-12-31T09:50:22Z",
+                "open_issues": 30,
                 "owner": "manfredsteyer",
                 "repo": "Angular_MicroApps_Different_Technologies",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -330,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exercises for course \"Integrating microservices on the frontend\"",
+                "homepage": null,
                 "id": 41047811,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-05T15:33:03Z",
+                "open_issues": 2,
                 "owner": "0xR",
                 "repo": "micro-frontend",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             },
@@ -346,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservices in the frontend with BFFs providing their own bundles and API.",
+                "homepage": null,
                 "id": 44446149,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-23T10:08:43Z",
+                "open_issues": 1,
                 "owner": "dactylographsy",
                 "repo": "browser-dactylographsy",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
             }
@@ -365,15 +605,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:03:57.460Z",
+    "last_updated": "2026-08-29T04:31:46.161Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
+      "homepage": null,
       "id": 159774835,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-24T11:22:48Z",
+      "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1283
+      "stars": 1283,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "lists",
+        "microfrontend",
+        "microfrontends",
+        "microservices",
+        "resources"
+      ]
     },
     "original_repository_sha": "0268e6a173c34bb93cc3813cc30a4c64e6632299",
     "enhanced_repository": "enhansome/enhansome-micro-frontends",
