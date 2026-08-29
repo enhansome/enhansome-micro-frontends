@@ -34,13 +34,13 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,464 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-27 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,466 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,909 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-26 - A powerful micro front-end framework.
-* [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,076 | 🐛 149 | 🌐 TypeScript | 📅 2026-02-11
+* [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,077 | 🐛 149 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-25
 * [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 774 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-26 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 662 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
