@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T17:25:02Z",
-                "open_issues": 87,
+                "last_commit": "2026-08-31T20:31:39Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18467,
+                "stars": 18468,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -146,8 +146,8 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-26T06:22:35Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-31T07:48:10Z",
+                "open_issues": 6,
                 "owner": "namecheap",
                 "repo": "ilc",
                 "stars": 774,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:43:43.833Z",
+    "last_updated": "2026-08-31T20:58:54.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
