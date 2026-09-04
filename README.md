@@ -34,12 +34,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,471 | 🐛 67 | 🌐 TypeScript | 📅 2026-09-03 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,472 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-04 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
 
-* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,909 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-03 - A powerful micro front-end framework.
+* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,909 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-04 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,077 | 🐛 149 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,473 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-03
 * [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 774 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-02 - Complete solution for Micro Frontends composition into SPA with SSR support.
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,143 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,142 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
