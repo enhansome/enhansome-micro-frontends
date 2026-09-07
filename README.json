@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T03:21:23Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-07T14:23:38Z",
+                "open_issues": 68,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18472,
+                "stars": 18473,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -69,7 +69,7 @@
                 "open_issues": 26,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2909,
+                "stars": 2910,
                 "topics": [
                   "framework",
                   "javascript"
@@ -118,8 +118,8 @@
                 "id": 29561741,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T10:22:56Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-07T07:16:46Z",
+                "open_issues": 42,
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1473,
@@ -146,7 +146,7 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:31:36Z",
+                "last_commit": "2026-09-07T13:45:27Z",
                 "open_issues": 6,
                 "owner": "namecheap",
                 "repo": "ilc",
@@ -419,7 +419,7 @@
                 "open_issues": 1,
                 "owner": "lsm",
                 "repo": "micromono",
-                "stars": 638,
+                "stars": 637,
                 "topics": [
                   "channel",
                   "framework",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:38:47.037Z",
+    "last_updated": "2026-09-07T19:20:21.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
