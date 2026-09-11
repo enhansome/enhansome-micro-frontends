@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T18:08:49Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-11T18:20:53Z",
+                "open_issues": 69,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18474,
+                "stars": 18475,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -65,7 +65,7 @@
                 "id": 323257322,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T04:13:07Z",
+                "last_commit": "2026-09-11T04:02:44Z",
                 "open_issues": 26,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
@@ -146,7 +146,7 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T10:06:44Z",
+                "last_commit": "2026-09-11T11:36:46Z",
                 "open_issues": 6,
                 "owner": "namecheap",
                 "repo": "ilc",
@@ -288,7 +288,7 @@
                 "id": 176462890,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-09T23:36:53Z",
+                "last_commit": "2026-09-10T20:59:20Z",
                 "open_issues": 27,
                 "owner": "nut-project",
                 "repo": "nut",
@@ -446,7 +446,7 @@
                 "open_issues": 5,
                 "owner": "chrisdavies",
                 "repo": "eev",
-                "stars": 525,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:37:28.100Z",
+    "last_updated": "2026-09-11T18:42:36.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
