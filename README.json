@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18475,
+                "stars": 18478,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -93,7 +93,7 @@
                 "open_issues": 149,
                 "owner": "ice-lab",
                 "repo": "icestark",
-                "stars": 2076,
+                "stars": 2075,
                 "topics": [
                   "frontend",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:47:23.335Z",
+    "last_updated": "2026-09-13T18:18:18.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
