@@ -69,7 +69,7 @@
                 "open_issues": 26,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2912,
+                "stars": 2913,
                 "topics": [
                   "framework",
                   "javascript"
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:15:57.987Z",
+    "last_updated": "2026-09-21T20:06:07.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1283,
+      "stars": 1284,
       "topics": [
         "awesome",
         "awesome-list",
