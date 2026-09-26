@@ -179,7 +179,7 @@
                 "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "backend-for-frontend",
                   "fragments",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:26:14.730Z",
+    "last_updated": "2026-09-26T18:40:31.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1284,
+      "stars": 1285,
       "topics": [
         "awesome",
         "awesome-list",
