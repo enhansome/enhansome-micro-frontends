@@ -17,7 +17,7 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T16:20:56Z",
+                "last_commit": "2026-09-28T21:04:48Z",
                 "open_issues": 74,
                 "owner": "teambit",
                 "repo": "bit",
@@ -65,7 +65,7 @@
                 "id": 323257322,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T07:05:08Z",
+                "last_commit": "2026-09-28T19:04:52Z",
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
@@ -122,7 +122,7 @@
                 "open_issues": 46,
                 "owner": "opencomponents",
                 "repo": "oc",
-                "stars": 1473,
+                "stars": 1472,
                 "topics": [
                   "components",
                   "continuous-delivery",
@@ -146,8 +146,8 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T11:36:46Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-28T15:23:55Z",
+                "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
                 "stars": 774,
@@ -393,7 +393,7 @@
                 "open_issues": 24,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4682,
+                "stars": 4683,
                 "topics": [
                   "architecture",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:09:51.951Z",
+    "last_updated": "2026-09-28T21:19:17.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
