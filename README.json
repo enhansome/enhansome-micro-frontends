@@ -17,7 +17,7 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:55:45Z",
+                "last_commit": "2026-10-03T00:03:36Z",
                 "open_issues": 76,
                 "owner": "teambit",
                 "repo": "bit",
@@ -80,7 +80,7 @@
             {
               "node_type": "item",
               "title": "icestark, a micro frontends solution for large application",
-              "description": null,
+              "description": "ice-lab/icestark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -109,7 +109,7 @@
             {
               "node_type": "item",
               "title": "OpenComponents, a framework for developing and distributing html components",
-              "description": null,
+              "description": "opencomponents/oc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "PuzzleJs",
-              "description": null,
+              "description": "puzzle-js/puzzle-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -197,7 +197,7 @@
             {
               "node_type": "item",
               "title": "Berial - Simple micro-front end framework",
-              "description": null,
+              "description": "berialjs/berial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "VoltranJS",
-              "description": null,
+              "description": "hepsiburada/VoltranJS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -251,7 +251,7 @@
             {
               "node_type": "item",
               "title": "One-app by American Express",
-              "description": null,
+              "description": "americanexpress/one-app",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -279,7 +279,7 @@
             {
               "node_type": "item",
               "title": "NUT",
-              "description": null,
+              "description": "nut-project/nut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -343,7 +343,7 @@
             {
               "node_type": "item",
               "title": "Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture",
-              "description": null,
+              "description": "scalecube/scalecube-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "Extending the microservice paradigms to web development",
-              "description": null,
+              "description": "neuland/micro-frontends",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Micromono",
-              "description": null,
+              "description": "lsm/micromono",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "A tiny, fast, zero-dependency event emitter",
-              "description": null,
+              "description": "chrisdavies/eev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -454,7 +454,7 @@
             {
               "node_type": "item",
               "title": "Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images",
-              "description": null,
+              "description": "willmendesneto/micro-frontend-pages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "Service Oriented Front-end",
-              "description": null,
+              "description": "CanopyTax/sofe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "Micro-Frontends architecture",
-              "description": null,
+              "description": "nuz-app/nuz",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -535,7 +535,7 @@
             {
               "node_type": "item",
               "title": "Angular_MicroApps_Different_Technologies",
-              "description": null,
+              "description": "manfredsteyer/Angular_MicroApps_Different_Technologies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -556,7 +556,7 @@
             {
               "node_type": "item",
               "title": "Exercises for course \"Integrating microservices on the frontend\"",
-              "description": null,
+              "description": "0xR/micro-frontend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "Microservices in the frontend with BFFs providing their own bundles and API.",
-              "description": null,
+              "description": "dactylographsy/browser-dactylographsy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:05:06.814Z",
+    "last_updated": "2026-10-03T04:55:43.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1285,
+      "stars": 1286,
       "topics": [
         "awesome",
         "awesome-list",
