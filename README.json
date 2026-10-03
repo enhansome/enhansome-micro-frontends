@@ -17,8 +17,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:03:36Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-03T18:07:51Z",
+                "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18493,
@@ -319,7 +319,7 @@
                 "open_issues": 15,
                 "owner": "nuz-app",
                 "repo": "nuz",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "architecture",
                   "cli",
@@ -511,7 +511,7 @@
                 "open_issues": 15,
                 "owner": "nuz-app",
                 "repo": "nuz",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "architecture",
                   "cli",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:43.749Z",
+    "last_updated": "2026-10-03T18:47:00.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
