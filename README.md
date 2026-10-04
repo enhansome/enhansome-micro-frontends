@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,493 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-03 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,494 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-03 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,147 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,146 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
