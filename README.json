@@ -17,7 +17,7 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T20:33:54Z",
+                "last_commit": "2026-10-08T20:07:40Z",
                 "open_issues": 77,
                 "owner": "teambit",
                 "repo": "bit",
@@ -66,10 +66,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T22:18:47Z",
-                "open_issues": 27,
+                "open_issues": 24,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2914,
+                "stars": 2916,
                 "topics": [
                   "framework",
                   "javascript"
@@ -146,11 +146,11 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T13:02:31Z",
+                "last_commit": "2026-10-08T15:23:47Z",
                 "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 773,
+                "stars": 774,
                 "topics": [
                   "fragment-services",
                   "frontend",
@@ -393,7 +393,7 @@
                 "open_issues": 24,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4683,
+                "stars": 4684,
                 "topics": [
                   "architecture",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:42:30.648Z",
+    "last_updated": "2026-10-08T20:45:45.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
