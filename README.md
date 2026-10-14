@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,495 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-13 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-14 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
@@ -42,7 +42,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,918 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-13 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,073 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,472 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-13
-* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 773 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-13 - Complete solution for Micro Frontends composition into SPA with SSR support.
+* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 773 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-14 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 664 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 415 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,146 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,143 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
