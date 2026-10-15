@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T19:17:45Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-15T19:13:12Z",
+                "open_issues": 82,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18496,
+                "stars": 18495,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -66,10 +66,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-13T12:16:02Z",
-                "open_issues": 24,
+                "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "framework",
                   "javascript"
@@ -146,8 +146,8 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T16:37:26Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-15T13:49:48Z",
+                "open_issues": 8,
                 "owner": "namecheap",
                 "repo": "ilc",
                 "stars": 773,
@@ -179,7 +179,7 @@
                 "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 664,
+                "stars": 663,
                 "topics": [
                   "backend-for-frontend",
                   "fragments",
@@ -264,7 +264,7 @@
                 "open_issues": 1,
                 "owner": "americanexpress",
                 "repo": "one-app",
-                "stars": 303,
+                "stars": 302,
                 "topics": [
                   "holocron",
                   "holocron-modules",
@@ -467,7 +467,7 @@
                 "open_issues": 35,
                 "owner": "willmendesneto",
                 "repo": "micro-frontend-pages",
-                "stars": 182,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:57.460Z"
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:35:49.764Z",
+    "last_updated": "2026-10-15T19:18:35.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1286,
+      "stars": 1285,
       "topics": [
         "awesome",
         "awesome-list",
