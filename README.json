@@ -21,7 +21,7 @@
                 "open_issues": 83,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18495,
+                "stars": 18496,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -118,8 +118,8 @@
                 "id": 29561741,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:21:10Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-18T12:29:27Z",
+                "open_issues": 48,
                 "owner": "opencomponents",
                 "repo": "oc",
                 "stars": 1472,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:54:27.785Z",
+    "last_updated": "2026-10-18T18:15:08.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
