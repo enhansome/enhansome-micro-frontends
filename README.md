@@ -34,20 +34,20 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-16 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-19 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
 
-* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,921 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-13 - A powerful micro front-end framework.
+* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,922 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-13 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,073 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
-* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,472 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-18
-* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 773 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-16 - Complete solution for Micro Frontends composition into SPA with SSR support.
+* [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,472 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-18
+* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 773 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-19 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 663 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 415 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
 * [One-app by American Express](https://github.com/americanexpress/one-app) ⚠️ Archived
-* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-10-13
+* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-10-19
 * [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) ⚠️ Archived - Archived.
 * [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js) ⭐ 66 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-12
 * [Ara Framework](https://ara-framework.github.io/website/)
@@ -64,7 +64,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Related
 
-* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,683 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
+* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,684 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-20
 * [Micromono](https://github.com/lsm/micromono) ⭐ 637 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-26
 * [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev) ⭐ 524 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06
 * [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages) ⭐ 181 | 🐛 35 | 🌐 JavaScript | 📅 2023-03-01
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,142 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,141 | 🐛 53 | 🌐 JavaScript | 📅 2026-07-08
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
