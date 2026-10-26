@@ -17,8 +17,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T13:28:15Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-26T20:25:32Z",
+                "open_issues": 84,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18497,
@@ -69,7 +69,7 @@
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2922,
+                "stars": 2923,
                 "topics": [
                   "framework",
                   "javascript"
@@ -146,11 +146,11 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T16:15:52Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-26T15:09:09Z",
+                "open_issues": 9,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 775,
+                "stars": 776,
                 "topics": [
                   "fragment-services",
                   "frontend",
@@ -288,7 +288,7 @@
                 "id": 176462890,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-22T23:42:03Z",
+                "last_commit": "2026-10-26T17:51:59Z",
                 "open_issues": 28,
                 "owner": "nut-project",
                 "repo": "nut",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:31:10.144Z",
+    "last_updated": "2026-10-26T20:40:22.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1285,
+      "stars": 1286,
       "topics": [
         "awesome",
         "awesome-list",

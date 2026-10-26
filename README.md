@@ -34,20 +34,20 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,497 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-25 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,497 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-26 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
 
-* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,922 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-22 - A powerful micro front-end framework.
+* [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,923 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-22 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,073 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,472 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-18
-* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 775 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-23 - Complete solution for Micro Frontends composition into SPA with SSR support.
+* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 776 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-26 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 663 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 415 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
 * [One-app by American Express](https://github.com/americanexpress/one-app) ⚠️ Archived
-* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-10-22
+* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-10-26
 * [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) ⚠️ Archived - Archived.
 * [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js) ⭐ 66 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-12
 * [Ara Framework](https://ara-framework.github.io/website/)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
