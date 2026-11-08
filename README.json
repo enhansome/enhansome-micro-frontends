@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T20:49:27Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-08T13:18:07Z",
+                "open_issues": 73,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18505,
+                "stars": 18507,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -122,7 +122,7 @@
                 "open_issues": 43,
                 "owner": "opencomponents",
                 "repo": "oc",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "components",
                   "continuous-delivery",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:32:14.861Z",
+    "last_updated": "2026-11-08T19:52:18.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
