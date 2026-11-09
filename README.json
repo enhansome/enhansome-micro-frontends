@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T13:18:07Z",
+                "last_commit": "2026-11-09T17:29:53Z",
                 "open_issues": 73,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18507,
+                "stars": 18506,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -69,7 +69,7 @@
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2928,
+                "stars": 2927,
                 "topics": [
                   "framework",
                   "javascript"
@@ -118,7 +118,7 @@
                 "id": 29561741,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T17:04:48Z",
+                "last_commit": "2026-11-09T16:04:59Z",
                 "open_issues": 43,
                 "owner": "opencomponents",
                 "repo": "oc",
@@ -146,8 +146,8 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T16:03:27Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-09T10:28:25Z",
+                "open_issues": 10,
                 "owner": "namecheap",
                 "repo": "ilc",
                 "stars": 776,
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:52:18.412Z",
+    "last_updated": "2026-11-09T23:49:40.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1286,
+      "stars": 1287,
       "topics": [
         "awesome",
         "awesome-list",
