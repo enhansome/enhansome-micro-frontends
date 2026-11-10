@@ -17,8 +17,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T17:29:53Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-10T20:37:25Z",
+                "open_issues": 74,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18506,
@@ -69,7 +69,7 @@
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2927,
+                "stars": 2928,
                 "topics": [
                   "framework",
                   "javascript"
@@ -118,7 +118,7 @@
                 "id": 29561741,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:04:59Z",
+                "last_commit": "2026-11-10T11:46:54Z",
                 "open_issues": 43,
                 "owner": "opencomponents",
                 "repo": "oc",
@@ -146,11 +146,11 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T10:28:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-10T10:07:32Z",
+                "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 776,
+                "stars": 777,
                 "topics": [
                   "fragment-services",
                   "frontend",
@@ -179,7 +179,7 @@
                 "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "backend-for-frontend",
                   "fragments",
@@ -234,7 +234,7 @@
                 "open_issues": 9,
                 "owner": "hepsiburada",
                 "repo": "VoltranJS",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "babel",
                   "hepsiburada",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:49:40.001Z",
+    "last_updated": "2026-11-10T21:23:09.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
