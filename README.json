@@ -17,8 +17,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T20:37:25Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-11T13:46:03Z",
+                "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18506,
@@ -93,7 +93,7 @@
                 "open_issues": 148,
                 "owner": "ice-lab",
                 "repo": "icestark",
-                "stars": 2073,
+                "stars": 2074,
                 "topics": [
                   "frontend",
                   "micro-frontends",
@@ -119,10 +119,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T11:46:54Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "opencomponents",
                 "repo": "oc",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "components",
                   "continuous-delivery",
@@ -150,7 +150,7 @@
                 "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 777,
+                "stars": 778,
                 "topics": [
                   "fragment-services",
                   "frontend",
@@ -288,7 +288,7 @@
                 "id": 176462890,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-05T22:51:24Z",
+                "last_commit": "2026-11-11T19:24:17Z",
                 "open_issues": 28,
                 "owner": "nut-project",
                 "repo": "nut",
@@ -393,7 +393,7 @@
                 "open_issues": 24,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4686,
+                "stars": 4685,
                 "topics": [
                   "architecture",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:23:09.780Z",
+    "last_updated": "2026-11-11T22:07:29.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
