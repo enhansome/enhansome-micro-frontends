@@ -93,7 +93,7 @@
                 "open_issues": 148,
                 "owner": "ice-lab",
                 "repo": "icestark",
-                "stars": 2073,
+                "stars": 2072,
                 "topics": [
                   "frontend",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:01:17.683Z",
+    "last_updated": "2026-11-15T20:29:17.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",

@@ -40,7 +40,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Frameworks
 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,929 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-30 - A powerful micro front-end framework.
-* [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,073 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
+* [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,072 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,474 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-12
 * [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 778 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-12 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 664 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
