@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,507 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-13 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,508 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-16 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
@@ -47,7 +47,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 416 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
 * [One-app by American Express](https://github.com/americanexpress/one-app) ⚠️ Archived
-* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-11-11
+* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-11-16
 * [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) ⚠️ Archived - Archived.
 * [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js) ⭐ 66 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-12
 * [Ara Framework](https://ara-framework.github.io/website/)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
