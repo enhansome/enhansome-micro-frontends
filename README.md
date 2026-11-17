@@ -34,7 +34,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Projects
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,508 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-16 - A tool for developing and composing / integrating independently versioned components.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,509 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-16 - A tool for developing and composing / integrating independently versioned components.
 * [Project Mosaic](https://www.mosaic9.org/) - A set of services, libraries together with a specification by Zalando.
 
 ### Frameworks
@@ -42,7 +42,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Garfish](https://github.com/modern-js-dev/garfish) ⭐ 2,929 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-30 - A powerful micro front-end framework.
 * [icestark, a micro frontends solution for large application](https://github.com/ice-lab/icestark) ⭐ 2,072 | 🐛 148 | 🌐 TypeScript | 📅 2026-02-11
 * [OpenComponents, a framework for developing and distributing html components](https://github.com/opencomponents/oc) ⭐ 1,474 | 🐛 45 | 🌐 JavaScript | 📅 2026-11-12
-* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 778 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-12 - Complete solution for Micro Frontends composition into SPA with SSR support.
+* [Isomorphic Layout Composer](https://github.com/namecheap/ilc) ⭐ 778 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-17 - Complete solution for Micro Frontends composition into SPA with SSR support.
 * [PuzzleJs](https://github.com/puzzle-js/puzzle-js) ⭐ 664 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-28
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 416 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
@@ -64,7 +64,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Related
 
-* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,688 | 🐛 25 | 🌐 JavaScript | 📅 2026-02-20
+* [Extending the microservice paradigms to web development](https://github.com/neuland/micro-frontends) ⭐ 4,689 | 🐛 25 | 🌐 JavaScript | 📅 2026-02-20
 * [Micromono](https://github.com/lsm/micromono) ⭐ 637 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-26
 * [A tiny, fast, zero-dependency event emitter](https://github.com/chrisdavies/eev) ⭐ 524 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06
 * [Simulate a micro frontend project using Node.js, React and NGinx Reverse Proxy in Alpine Docker images](https://github.com/willmendesneto/micro-frontend-pages) ⭐ 181 | 🐛 35 | 🌐 JavaScript | 📅 2023-03-01
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
