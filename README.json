@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T18:38:55Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18508,
+                "stars": 18507,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -69,7 +69,7 @@
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2929,
+                "stars": 2928,
                 "topics": [
                   "framework",
                   "javascript"
@@ -93,7 +93,7 @@
                 "open_issues": 148,
                 "owner": "ice-lab",
                 "repo": "icestark",
-                "stars": 2072,
+                "stars": 2071,
                 "topics": [
                   "frontend",
                   "micro-frontends",
@@ -118,11 +118,11 @@
                 "id": 29561741,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T03:39:11Z",
+                "last_commit": "2026-11-19T12:04:56Z",
                 "open_issues": 45,
                 "owner": "opencomponents",
                 "repo": "oc",
-                "stars": 1474,
+                "stars": 1473,
                 "topics": [
                   "components",
                   "continuous-delivery",
@@ -150,7 +150,7 @@
                 "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
-                "stars": 778,
+                "stars": 777,
                 "topics": [
                   "fragment-services",
                   "frontend",
@@ -179,7 +179,7 @@
                 "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 664,
+                "stars": 663,
                 "topics": [
                   "backend-for-frontend",
                   "fragments",
@@ -234,7 +234,7 @@
                 "open_issues": 9,
                 "owner": "hepsiburada",
                 "repo": "VoltranJS",
-                "stars": 416,
+                "stars": 414,
                 "topics": [
                   "babel",
                   "hepsiburada",
@@ -393,7 +393,7 @@
                 "open_issues": 25,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4689,
+                "stars": 4687,
                 "topics": [
                   "architecture",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:39:41.894Z",
+    "last_updated": "2026-11-19T22:43:47.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
@@ -617,7 +617,7 @@
       "open_issues": 0,
       "owner": "rajasegar",
       "repo": "awesome-micro-frontends",
-      "stars": 1287,
+      "stars": 1286,
       "topics": [
         "awesome",
         "awesome-list",
