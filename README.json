@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18507,
+                "stars": 18508,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -69,7 +69,7 @@
                 "open_issues": 27,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2928,
+                "stars": 2929,
                 "topics": [
                   "framework",
                   "javascript"
@@ -393,7 +393,7 @@
                 "open_issues": 25,
                 "owner": "neuland",
                 "repo": "micro-frontends",
-                "stars": 4687,
+                "stars": 4688,
                 "topics": [
                   "architecture",
                   "micro-frontends",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:43:47.043Z",
+    "last_updated": "2026-11-20T22:18:02.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
