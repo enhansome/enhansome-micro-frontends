@@ -288,7 +288,7 @@
                 "id": 176462890,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-16T18:48:40Z",
+                "last_commit": "2026-11-21T03:05:36Z",
                 "open_issues": 28,
                 "owner": "nut-project",
                 "repo": "nut",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:18:02.083Z",
+    "last_updated": "2026-11-21T20:59:25.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",

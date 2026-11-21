@@ -47,7 +47,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Berial - Simple micro-front end framework](https://github.com/berialjs/berial) ⭐ 520 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-22
 * [VoltranJS](https://github.com/hepsiburada/VoltranJS) ⭐ 414 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-14
 * [One-app by American Express](https://github.com/americanexpress/one-app) ⚠️ Archived
-* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-11-16
+* [NUT](https://github.com/nut-project/nut) ⭐ 110 | 🐛 28 | 🌐 HTML | 📅 2026-11-21
 * [Nuz is an open-source project, the runtime package manager for web platform.](https://github.com/nuz-app/nuz) ⚠️ Archived - Archived.
 * [Scalecube-js: Toolkit for working in micro-services/micro-frontends architecture](https://github.com/scalecube/scalecube-js) ⭐ 66 | 🐛 7 | 🌐 TypeScript | 📅 2024-08-12
 * [Ara Framework](https://ara-framework.github.io/website/)
@@ -230,7 +230,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Sample Projects
 
-* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,148 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-07
+* [Module Federation](https://github.com/module-federation/module-federation-examples) ⭐ 6,149 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-07
 * [React Single SPA](https://github.com/react-microfrontends)
 * [Vue Single SPA](https://github.com/vue-microfrontends)
 * [Piral](https://github.com/piral-samples)
@@ -253,4 +253,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
