@@ -17,11 +17,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T14:23:00Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-23T19:31:07Z",
+                "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18507,
+                "stars": 18508,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -66,10 +66,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T06:06:16Z",
-                "open_issues": 27,
+                "open_issues": 24,
                 "owner": "web-infra-dev",
                 "repo": "garfish",
-                "stars": 2929,
+                "stars": 2931,
                 "topics": [
                   "framework",
                   "javascript"
@@ -146,7 +146,7 @@
                 "id": 218043270,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T12:12:41Z",
+                "last_commit": "2026-11-23T18:04:15Z",
                 "open_issues": 7,
                 "owner": "namecheap",
                 "repo": "ilc",
@@ -179,7 +179,7 @@
                 "open_issues": 37,
                 "owner": "puzzle-js",
                 "repo": "puzzle-js",
-                "stars": 663,
+                "stars": 662,
                 "topics": [
                   "backend-for-frontend",
                   "fragments",
@@ -605,7 +605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:09:21.782Z",
+    "last_updated": "2026-11-24T02:28:19.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome list of posts, videos and tutorials on Micro Frontends",
